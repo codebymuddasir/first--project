@@ -10,6 +10,7 @@ Author - Muhammad Muddasir
 2. git add .
 3. git commit -m "your message"
 4. git push origin <yourbranchname>
+5. git pull origin <YourBranchName> 
 
 
 
